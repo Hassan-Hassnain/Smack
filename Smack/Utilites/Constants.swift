@@ -10,8 +10,8 @@ import Foundation
 
 //Segues
 let TO_LOGIN = " toLogin"
-
-
+let TO_CREATE_ACCOUNT = "toCreateAccount"
+let UNWIND = "unwindToChannel"
 
 //Prototype cell identifier
 let CHANNEL_TABLE_CELL = "ChannelCell"
